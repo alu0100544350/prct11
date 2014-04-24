@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.10pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Introducci\IeC {\'o}n}{6}{0}{1}
+\beamer@subsectionintoc {1}{1}{Definici\IeC {\'o}n}{6}{0}{1}
+\beamer@subsectionintoc {1}{2}{Motivaci\IeC {\'o}n y objetos}{7}{0}{1}
+\beamer@sectionintoc {2}{Historia del n\IeC {\'u}mero Pi}{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{Antiguo Egipto}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{Mesopot\IeC {\'a}mia}{10}{0}{2}
+\beamer@sectionintoc {3}{Bibliograf\IeC {\'\i }a}{11}{0}{3}
